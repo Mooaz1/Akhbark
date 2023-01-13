@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922649512931",
+    "project_id": "akhbark-e2b02",
+    "storage_bucket": "akhbark-e2b02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922649512931:android:bc6f9b2c892b2a54066ed6",
+        "android_client_info": {
+          "package_name": "com.example.akhbark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922649512931-jvbqn1gpkesc229c671cr77vj0rguvr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhDqMzQ6ed8eULo0zjaej9wfRKrbVicbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922649512931-jvbqn1gpkesc229c671cr77vj0rguvr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
