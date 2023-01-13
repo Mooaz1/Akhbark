@@ -1,0 +1,2 @@
+# Akhbark
+A news platform
